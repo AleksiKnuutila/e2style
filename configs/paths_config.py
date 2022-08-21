@@ -8,6 +8,8 @@ dataset_paths = {
 	'celeba_train_segmentation': '',
 	'celeba_test_segmentation': '',
 	'ffhq': '',
+	'streetview_train': '/content/final_images_512',
+	'streetview_test': '/content/final_images_512_test',
 }
 
 model_paths = {
